@@ -8,5 +8,4 @@ def prime?(num)
       num % possible_factor != 0
     end 
   end 
-  
 end 
